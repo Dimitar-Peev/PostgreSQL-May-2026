@@ -2,13 +2,13 @@
 
 ## 📑 Table of Contents
 
-* [Database Design](#-database-design)
+* [Database Design](#database-design)
 * [Primary & Foreign Keys](#-primary--foreign-keys)
 * [Relationship Types](#-relationship-types)
 * [JOINs](#-joins)
 * [Cascade Operations](#-cascade-operations)
-* [E/R Diagrams](#-er-diagrams)
-* [Common Patterns](#-common-patterns)
+* [E/R Diagrams](#er-diagrams)
+* [Common Patterns](#common-patterns)
 
 ---
 
@@ -378,7 +378,7 @@ CREATE TABLE cars
 
 ---
 
-## E/R Diagrams
+## ER Diagrams
 
 * E/R = Entity / Relationship Diagram
 * Visual representation of:
@@ -407,7 +407,7 @@ Right Click Database
 
 ---
 
-## ⚙️ Common Patterns
+## Common Patterns
 
 ---
 
