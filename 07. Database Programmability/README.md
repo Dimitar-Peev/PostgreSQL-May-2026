@@ -1,4 +1,4 @@
-# 📘 PostgreSQL Database Programmability Cheat Sheet
+# 📘 Database Programmability
 
 ## 📑 Table of Contents
 
